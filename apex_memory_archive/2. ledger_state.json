@@ -1,0 +1,42 @@
+{
+    "core_reserve": 2383.40,
+    "weekly_cap": 42,
+    "tips_logged": [
+        {
+            "id": 0,
+            "horse": "Tommy Pickles",
+            "race": "13:50 Sedgefield",
+            "odds": 1.83,
+            "stake": 10.0,
+            "bookmaker": "Bet365",
+            "status": "Pending"
+        },
+        {
+            "id": 1,
+            "horse": "Stay Hopeful",
+            "race": "14:20 Sedgefield",
+            "odds": 2.75,
+            "stake": 10.0,
+            "bookmaker": "Bet365",
+            "status": "Pending"
+        },
+        {
+            "id": 2,
+            "horse": "Curious Mrs Fox",
+            "race": "15:50 Sedgefield",
+            "odds": 6.50,
+            "stake": 10.0,
+            "bookmaker": "Bet365",
+            "status": "Pending"
+        },
+        {
+            "id": 3,
+            "horse": "Gambino",
+            "race": "16:20 Sedgefield",
+            "odds": 2.75,
+            "stake": 10.0,
+            "bookmaker": "PaddyPower",
+            "status": "Pending"
+        }
+    ]
+}
